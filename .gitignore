@@ -1,0 +1,13 @@
+lerna-debug.log
+
+**/node_modules
+**/debug
+**/dist
+**/storybook-dist
+
+**/.DS_Store
+**/.env
+**/.log
+
+.vscode/settings.json
+.vscode/extensions.json
