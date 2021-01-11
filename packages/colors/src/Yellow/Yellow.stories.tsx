@@ -1,5 +1,5 @@
 import React from 'react';
-import Yellow from './Yellow';
+import { Yellow } from './Yellow';
 
 export default {
   title: 'Colors/Yellow',

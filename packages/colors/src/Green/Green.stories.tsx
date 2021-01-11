@@ -1,5 +1,5 @@
 import React from 'react';
-import Green from './Green';
+import { Green } from './Green';
 
 export default {
   title: 'Colors/Green',

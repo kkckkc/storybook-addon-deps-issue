@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Red = (opts) => {
+export const Red = (opts) => {
   return (
     <div style={{ width: '10em', height: '2em', backgroundColor: 'red'}}>
 
@@ -8,4 +8,4 @@ const Red = (opts) => {
   )
 }
 
-export default Red;
+//export default { Red };

@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Gray = (opts) => {
+export const Gray = (opts) => {
   return (
     <div style={{ width: '10em', height: '2em', backgroundColor: 'gray'}}>
 
@@ -8,4 +8,4 @@ const Gray = (opts) => {
   )
 }
 
-export default Gray;
+//export default { Gray };

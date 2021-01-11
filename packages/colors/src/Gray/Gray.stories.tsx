@@ -1,5 +1,5 @@
 import React from 'react';
-import Gray from './Gray';
+import { Gray } from './Gray';
 
 export default {
   title: 'Colors/Gray',

@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "ES5",
+    "moduleResolution": "node",
+    "sourceMap": false,
+    "esModuleInterop": true,
+    "jsx": "react",
+    "lib": ["es2015", "es2017", "dom"]
+  },
+  "include": [
+    "packages/**/*.ts",
+    "packages/**/*.tsx"  ],
+  "exclude": ["node_modules"]
+}
