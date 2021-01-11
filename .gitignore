@@ -8,6 +8,6 @@ lerna-debug.log
 **/.DS_Store
 **/.env
 **/.log
-
+**/*.js
 .vscode/settings.json
 .vscode/extensions.json
